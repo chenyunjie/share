@@ -1,0 +1,6 @@
+framework module ArenaShare {
+  umbrella header "ArenaShare.h"
+
+  export *
+  module * { export * }
+}
